@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Toledo</h1>
 <h3 align="center">A FrontEnd Developer and Systems Engineering Student</h3>
 
-- 🔭 I’m currently working on **Pipos y Melosos**
+- 🔭 I’m currently looking for a job or internship!
 
 - 🌱 I’m currently learning **React,Node.js**
 
