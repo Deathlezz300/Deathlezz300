@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React,Node.js**
 
-- 👨‍💻 All of my projects are available at [https://deathlezz300.github.io/Challenge-Oracle-Portafolio/](https://deathlezz300.github.io/Challenge-Oracle-Portafolio/)
+- 👨‍💻 All of my projects are available at [https://alejandro-t-portfolio.vercel.app/)
 
-- 💬 Ask me about **React,Javascript,MySQL**
+- 💬 Ask me about **React,Javascript,MySQL,Node,Next,Nest**
 
 - 📫 How to reach me **jairotoledo2003@gmail.com**
 
